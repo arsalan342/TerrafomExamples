@@ -1,3 +1,3 @@
 # TerrafomExamples
 
-Here you can find terraform example fils.
+Here you can find terraform example files.
