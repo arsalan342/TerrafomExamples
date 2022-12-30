@@ -42,3 +42,4 @@ module "vpc" {
     Name = "MyNewVpc"
   }
 }
+
