@@ -39,6 +39,6 @@ module "vpc" {
   tags = local.tags
 
   vpc_tags = {
-    Name = "vpc-name"
+    Name = "MyNewVpc"
   }
 }
